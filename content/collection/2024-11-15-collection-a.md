@@ -1,5 +1,5 @@
 ---
-title: Skin Deep
+title: Skin Deep - Final Work 
 reftags:
   - Tag A
 imagegallery:
@@ -8,9 +8,8 @@ imagegallery:
   galleryImages:
     - /img/00 Skin_Deep/03.png
     - /img/00 Skin_Deep/AD-magazine2-Mockup.png
-    - /img/00 Skin_Deep/Mockup.png
-    - /img/00 Skin_Deep/02.png
     - /img/00 Skin_Deep/04.png
+    - /img/00 Skin_Deep/02.png
   gallerytext: ""
 thumbnail: /img/00 SKin_Deep/AD-magazine2-Mockup.png
 date: 2024-11-15T12:58:59.910Z
@@ -22,15 +21,15 @@ collectionincluded: true
 numbernavigation: 11
 
 ---
-::div{.Text .text-2xl .font-bold leading-9}
+::div{.Description .text-2xl .font-bold leading-9}
 When the time came to choose a topic for my end-of-year project, it was evident to me that I would focus on body shaming and nothing else. Not only because I have personally experienced it here and there and have been affected by it, but also because I see it happening to others. The way people feel entitled to make comments about someone else's appearance is unacceptable, and that's why it was important for me to address this issue.
 ::  
 
-::div{.Text .text-2xl .font-bold .bg-amber-200 .max-w-100}
+::div{.Link .mt-5 .text-2xl .font-bold .bg-amber-200 .max-w-100}
 [TAKE A LOOK AT THE TRAILER](https://www.youtube.com/watch?v=7SE4r5zuQSU&ab_channel=wdd)  
 ::   
 
-::div{.Titel .text-4xl}
+::div{.Titel .text-3xl}
 Explenation
 ::
 
@@ -40,7 +39,7 @@ Visitors can interact with these bodies and alter them as they wish. When inter-
 :: 
 
 
-::div{.Titel .text-4xl}
+::div{.Titel .text-3xl}
 Award
 ::
 

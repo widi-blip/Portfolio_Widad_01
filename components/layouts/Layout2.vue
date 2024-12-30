@@ -26,10 +26,11 @@
 
       <!-- Main section -->
       <div class="container mx-auto p-4 animate-fade animate-once animate-delay-[500ms]">
+        <h1 class="PageTitle2  md:text-3xl lg:text-6xl lg:mb-3 font-bold">{{ data.title }}</h1>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
           <!-- First column -->
           <div>
-            <h1 class="PageTitle2 text-3xl md:text-3xl lg:text-6xl lg:mb-3">{{ data.title }}</h1>
+            
             <h1 v-if="data.subtitle" class="opacity-80 text-xl md:text-2xl lg:text-3xl font-bold pb-10">{{ data.subtitle }}</h1>
             <p class="text-lg md:text-2xl lg:text-xl pb-5 font-bold">{{ data.description }}</p>
             <div v-if="data.imagegallery && data.imagegallery.showgallery == true">
@@ -105,13 +106,13 @@ defineProps(['data', 'formatDate']);
 
 .PageTitle2{
   font-family: "Space Mono", monospace;
-  color: #e63fbd;
+  color: #000000;
   font-size: 50pt;
-  padding: 30pt 0 10pt 0;
+  padding: 30pt 0 0pt 0;
 }
 
 .SecondColumn{
-  margin-top: 110pt;
+  margin-top: 20pt;
 }
 
 @keyframes spin {

@@ -5,8 +5,8 @@
         <Drawer />
       </div>
       <div class="container">
-        <h1 class="text-3xl md:text-3xl lg:text-6xl lg:mb-10 font-bold">{{ data.title }}</h1>
-        <p class="text-lg md:text-2xl lg:text-xl pb-10 font-bold">{{ data.description }}</p>
+        <h1 class="PageTitle2  md:text-3xl lg:text-6xl lg:mb-10 font-bold">{{ data.title }}</h1>
+        
 
         <ContentRenderer :value="data" />
 
@@ -47,3 +47,18 @@
   defineProps(['data', 'formatDate']);
   </script>
   
+  <style scoped>
+
+.PageTitle{
+  font-family: "Space Mono", monospace;
+}
+
+.PageTitle2{
+  font-family: "Space Mono", monospace;
+  color: #000000;
+  font-size: 50pt;
+}
+</style>
+
+
+

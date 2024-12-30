@@ -11,7 +11,7 @@ imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - /img/pierre-chatel-innocenti-2MoEcGNUj-I-unsplash.jpg
+    - /img/01 Groen/0.png
     - /img/pat-krupa-oM9L2V90-i4-unsplash.jpg
     - /img/pierre-chatel-innocenti-xovRcLRpX20-unsplash.jpg
 collectionincluded: true

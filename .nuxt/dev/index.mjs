@@ -386,7 +386,9 @@ const _inlineRuntimeConfig = {
     "baseURL": "/_ipx",
     "alias": {},
     "fs": {
-      "dir": []
+      "dir": [
+        "/Users/widadanncoud/Documents/05 LUCA/ATELIER_DEVELOPMENT/DEV/Portfolio_Widad_01/public"
+      ]
     },
     "http": {
       "domains": []

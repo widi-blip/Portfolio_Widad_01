@@ -18,6 +18,7 @@ import Layout1 from '~/components/layouts/Layout1.vue';
 import Layout2 from '~/components/layouts/Layout2.vue';
 import Layout3 from '~/components/layouts/Layout3.vue';
 
+
 // Function to get the corresponding layout component
 function getLayoutComponent(layout) {
   switch (layout) {

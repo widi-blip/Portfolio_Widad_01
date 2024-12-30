@@ -31,5 +31,4 @@ if (data.value) {
 hr{
   opacity: .1;
 }
-
 </style>

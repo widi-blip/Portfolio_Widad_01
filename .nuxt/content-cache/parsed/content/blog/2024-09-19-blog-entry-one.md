@@ -1,16 +1,1 @@
----
-layout: default
-title: Example - blog entry 1
-subtitle: Subtitle example - blog entry 1
-tags:
-  - Tag 1
-  - Tag 3
-  - Tag 2
-thumbnail: /img/pat-krupa-oM9L2V90-i4-unsplash.jpg
-date: 2024-11-15T14:18:09.679Z
-author: John Jones
-numbernavigation: 1
-layoutblog: layout2
-promoted: 100
----
-Widad
+{"parsed":{"_path":"/blog/2024-09-19-blog-entry-one","_dir":"blog","_draft":false,"_partial":false,"_locale":"","title":"Example - blog entry 1","description":"Widad","layout":"default","subtitle":"Subtitle example - blog entry 1","tags":["Tag 1","Tag 3","Tag 2"],"thumbnail":"/img/pat-krupa-oM9L2V90-i4-unsplash.jpg","date":"2024-11-15T14:18:09.679Z","author":"John Jones","numbernavigation":1,"layoutblog":"layout2","promoted":100,"body":{"type":"root","children":[{"type":"element","tag":"p","props":{},"children":[{"type":"text","value":"Widad"}]}],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:blog:2024-09-19-blog-entry-one.md","_source":"content","_file":"blog/2024-09-19-blog-entry-one.md","_stem":"blog/2024-09-19-blog-entry-one","_extension":"md"},"hash":"hR8lZYMQSG"}

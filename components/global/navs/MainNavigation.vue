@@ -2,8 +2,8 @@
   <div>
     <div v-for="(posts, folderName) in folders" :key="folderName" class="">
       <ul>
-        <li v-for="post in posts" :key="post.slug" class="NavTitels pb-1 md:pb-2 lg:pb-8">
-          <NuxtLink :to="post._path" class=" font-bold text-5xl">
+        <li v-for="post in posts" :key="post.slug" class="NavTitels pb-1 md:pb-2 lg:pb-1">
+          <NuxtLink :to="post._path" class=" text-2xl">
             {{ post.title }}
           </NuxtLink>
         </li>
@@ -74,6 +74,8 @@ onMounted(() => {
 
 
 .NavTitels{
-  margin-left: 0px;
+  font-size: 0pt;
+  font-family: "Space Mono", serif;
+
 }
 </style>

@@ -41,6 +41,5 @@
 
   li{
     font-family: "Space Mono", monospace;
-    font-size: 20pt;
   }
 </style>

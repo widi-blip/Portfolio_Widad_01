@@ -104,3 +104,13 @@
     font-style: normal;
     line-height: normal;
   }
+
+  .Text{
+    color: #e63fbd; /* Voegt de kleur toe */
+  }
+
+  .Titel{
+    font-family: "Space Mono", monospace;
+    color: #e63fbd; /* Voegt de kleur toe */
+    padding-top: 30pt;
+  }

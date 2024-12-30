@@ -1,17 +1,18 @@
 ---
-title: Example - collection A
-related_page:
-  - 2024-11-17-example-page-a
+title: Skin Deep
 reftags:
   - Tag A
 imagegallery:
   showgallery: true
-  carouselgrid: carousel
+  carouselgrid: grid
   galleryImages:
-    - /img/parrish-freeman-Wi_Kun_mstU-unsplash.jpg
-    - /img/pierre-chatel-innocenti-dWBoc5jWYhY-unsplash.jpg
+    - /img/00 Skin_Deep/03.png
+    - /img/00 Skin_Deep/AD-magazine2-Mockup.png
+    - /img/00 Skin_Deep/Mockup.png
+    - /img/00 Skin_Deep/02.png
+    - /img/00 Skin_Deep/04.png
   gallerytext: ""
-thumbnail: /img/mika-korhonen--xiyLfBYy_Q-unsplash.jpg
+thumbnail: /img/00 SKin_Deep/AD-magazine2-Mockup.png
 date: 2024-11-15T12:58:59.910Z
 layout: layout2
 mainincluded: true
@@ -19,17 +20,30 @@ tags:
   - Tag 1
 collectionincluded: true
 numbernavigation: 11
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-  fringilla nunc id tellus commodo, et suscipit nisl mattis. Duis venenatis
-  malesuada libero, tristique consectetur augue egestas pharetra. Cras sit amet
-  lacinia nulla, et accumsan nulla. Orci varius natoque penatibus et magnis dis
-  parturient montes, nascetur ridiculus mus. Vivamus rhoncus bibendum orci, in
-  sodales risus ullamcorper in. Cras sed cursus arcu. Mauris pulvinar euismod
-  eros, vitae elementum massa mattis vitae. Duis viverra mattis vulputate.
-  Integer faucibus malesuada metus, pharetra molestie odio bibendum ut.
+
 ---
-## **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla nunc id tellus commodo, et suscipit nisl mattis. Duis venenatis malesuada libero, tristique consectetur augue egestas pharetra. Cras sit amet lacinia nulla, et accumsan nulla. Orci varius natoque penatvibu s et magnis dis parturient montes, nascetur ridiculus mus. Vivamus rhoncus bibendum orci, in sodales risus ullamcorper in. Cras sed cursus arcu. Mauris pulvinar euismod eros, vitae elementum massa mattis vitae. Duis viverra mattis vulputate. Integer faucibus malesuada metus, pharetra molestie odio bibendum ut.**
+::div{.Text .text-2xl .font-bold leading-9}
+When the time came to choose a topic for my end-of-year project, it was evident to me that I would focus on body shaming and nothing else. Not only because I have personally experienced it here and there and have been affected by it, but also because I see it happening to others. The way people feel entitled to make comments about someone else's appearance is unacceptable, and that's why it was important for me to address this issue.
+::  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur ultricies est in lobortis. Nunc tincidunt, ligula ac dapibus finibus, quam ex pharetra sapien, vitae tincidunt ligula massa a orci. Donec vel odio vel nibh blandit lobortis ac vitae neque. Fusce tempor id libero non scelerisque. Integer ultrices, eros nec iaculis ornare, nulla ipsum varius ex, in consectetur mi massa sit amet libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin posuere mauris vel dui venenatis, ac euismod nibh tempor. Mauris non nulla vel lorem iaculis suscipit. Pellentesque tortor urna, fermentum eu feugiat et, auctor non turpis. Sed vitae sem quis tellus sagittis malesuada eget a neque.
+::div{.Text .text-2xl .font-bold .bg-amber-200 .max-w-100}
+[TAKE A LOOK AT THE TRAILER](https://www.youtube.com/watch?v=7SE4r5zuQSU&ab_channel=wdd)  
+::   
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur ultricies est in lobortis. Nunc tincidunt, ligula ac dapibus finibus, quam ex pharetra sapien, vitae tincidunt ligula massa a orci. Donec vel odio vel nibh blandit lobortis ac vitae neque. Fusce tempor id libero non scelerisque. Integer ultrices, eros nec iaculis ornare, nulla ipsum varius ex, in consectetur mi massa sit amet libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mfus. Proin posuere mauris vel dui venenatis, ac euismod nibh tempor. Mauris non nulla vel lorem iaculis suscipit. Pellentesque tortor urna, fermentum eu feugiat et, auctor non turpis. Sed vitae sem quis tellus sagittis malesuada eget a neque.
+::div{.Titel .text-4xl}
+Explenation
+::
+
+::div{.Text .text-2xl }
+My goal was to create an interactive installation to raise awareness among body shamers about the consequences of their actions and to spread awareness. I achieved this by using three different body representations, each accompanied by a distressing story.  
+Visitors can interact with these bodies and alter them as they wish. When inter- acting with one of the bodies, users will see the consequences of their actions displayed on a screen in the form of visuals. However, all of these painful inter- actions lead to a somber conclusion.  
+:: 
+
+
+::div{.Titel .text-4xl}
+Award
+::
+
+::div{.Text .text-2xl }
+I am delighted to share that my final project was awarded a prize in the motion category at the Final Show exhibition of Multimedia & Creative technologies 2023! This recognition highlights the dedication and creativity. It's an honor to be acknowledged among such talented peers. Thank you to everyone who supported me throughout this journey. I am excited to continue exploring new avenues of creativity in the future.    
+:: 

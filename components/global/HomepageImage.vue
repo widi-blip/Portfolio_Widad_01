@@ -14,8 +14,8 @@ function handleMouseMove(event) {
     const centerX = rect.left + rect.width / 2; // Bepaal middelpunt X
     const centerY = rect.top + rect.height / 2; // Bepaal middelpunt Y
 
-    const dx = (event.clientX - centerX) / 15; // Beweging horizontaal
-    const dy = (event.clientY - centerY) / 15; // Beweging verticaal
+    const dx = (event.clientX - centerX) / 20; // Beweging horizontaal
+    const dy = (event.clientY - centerY) / 20; // Beweging verticaal
 
     circleStyle.value = {
       transform: `translate(${dx}px, ${dy}px)`,
@@ -73,10 +73,10 @@ onMounted(async () => {
         <div class="SubtitleWidad">
           <div><img class="ProfilePicture hidden md:block" src="/public/img/Profile_Picture.png" alt=""></div>
           <div class=""> <p>Widad<br>Anncoud</p></div>
-          <div class=""><p>Motion Designer<br>Graphic Designer</p> </div>
-          <div class="hidden md:block"><p>Erasmushogeschool MCT (2020-2023)<br>LUCA School of Arts MIND (2024-today)</p> </div>
+          <div class=""><p>Motion Designer &<br>Graphic Designer</p> </div>
+          <div class="hidden md:block"><p>LUCA School of Arts MIND (2024-today)<br>Erasmushogeschool MCT (2020-2023)</p> </div>
           <div class="hidden md:block"> <p>Adobe Softwares<br>TouchDesigner</p></div>
-          <div class="hidden md:block"> <p>widad.acd@gmail.com<br>0496 92 00 99</p></div>
+          <div class="hidden md:block"> <p>widad.acd@gmail.com<br>Bruxelles</p></div>
           
         </div>
         <div class="Blur" :style="circleStyle"></div>
@@ -129,7 +129,7 @@ onMounted(async () => {
 .Blur {
   top: 20%;
   bottom: 20%;
-  background-color: #fa5ed3;
+  background-color: #fa5edb;
   padding: 15%;
   border-radius: 50%;
   filter: blur(50px);
@@ -139,10 +139,5 @@ onMounted(async () => {
 .pr-5{
   position: sticky;
   top: 0;
-  overflow: hidden;
-}
-
-body {
-  overflow: hidden;
 }
 </style> 

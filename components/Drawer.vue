@@ -14,7 +14,7 @@
   v-model="drawer"
   class="drawer  lg:min-w-96 min-w-full"
   :direction="direction"
-  size="50%"
+  size="30%"
 >
   <!-- Drawer content goes here -->
     <div class="NavText ">
@@ -63,8 +63,51 @@ const direction = ref<DrawerProps['direction']>('rtl')
   margin-top: auto;
 }
 
-.NavText {
-  margin-top: auto;
-  font-family: "Space Mono", monospace;
+.footer{
+  margin-top: 50pt;
+  
 }
+
+.NavText {
+  font-family: "Space Mono", serif;
+  font-weight: 0;
+  font-style: normal;
+  margin-left: 0pt;
+}
+
+.drawer{
+  padding-left: 15pt;
+  padding-right: 15pt;
+}
+
+.NavText a {
+  text-decoration: none;
+  color: #e63fbd;
+  position: relative;
+  font-size: 18px;
+}
+
+.NavText a:hover {
+  color: #e63fbd;
+}
+
+.NavText a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  height: 6px;
+  width: 100%;
+  background: #222222;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s ease;
+}
+
+.NavText a:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+
 </style>

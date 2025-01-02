@@ -123,6 +123,7 @@ defineProps(['data', 'formatDate']);
   border-radius: 8px;
   overflow: hidden;
   transition: transform 0.3s ease;
+  /*background-color: rgb(255, 5, 193); */
 }
 
 .masonry-image {

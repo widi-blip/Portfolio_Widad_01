@@ -6,10 +6,11 @@ imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - /img/00 Skin_Deep/03.png
-    - /img/00 Skin_Deep/AD-magazine2-Mockup.png
-    - /img/00 Skin_Deep/04.png
-    - /img/00 Skin_Deep/02.png
+    - /img/02 Saze/Saze_02.jpeg
+    - /img/02 Saze/Saze_04.png
+    - /img/02 Saze/Saze_05.jpeg
+    - /img/02 Saze/Saze_01.jpeg
+    - /img/02 Saze/Saze_06.jpeg
   gallerytext: ""
 thumbnail: /img/00 SKin_Deep/AD-magazine2-Mockup.png
 date: 2024-11-15T12:58:59.910Z

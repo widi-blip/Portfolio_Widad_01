@@ -19,7 +19,7 @@ useHead({
   <div>
       <Drawer />
     </div>
-    <div class="text-xl font-bold mb-5">All objects from the collection with the tag "{{ slug }}"</div>
+    <div class="Titel_03 text-7xl mb-5">Projects</div>
     <section class="page-section">
       <!-- Render list of all articles in ./content/blog using `path` -->
       <!-- Provide only defined fieldsin the `:query` prop -->

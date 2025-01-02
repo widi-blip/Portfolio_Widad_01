@@ -1,9 +1,9 @@
 <template>
     <div class="opacity-80 animate-fade animate-once animate-delay-[100ms]">
       <div
-      class="text-xl font-bold">
+      class="text-xl">
       {{ settings.site_title }}</div>
-      <div class="text-sm opacity-80">
+      <div class="text-sm opacity-50">
       {{ settings.site_subtitle }}
       </div>
     </div>
@@ -23,3 +23,15 @@
     console.error('Error loading settings:', error.value);
   }
   </script>
+
+<style>
+.text-sm{
+  padding-bottom: 20pt;
+}
+
+.text-xl{
+  font-size: 30pt;
+  padding-bottom: 10pt;
+}
+
+</style>

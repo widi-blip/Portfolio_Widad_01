@@ -3,9 +3,6 @@ layout: default
 title: "Nuxt Decap / Student "
 subtitle: Demo
 tags:
-  - Tag 1
-  - Tag 3
-  - Tag 2
 thumbnail: /img/pierre-chatel-innocenti-amlcrqr6wns-unsplash.jpg
 date: 2024-11-17T11:32:11.103Z
 numbernavigation: 0

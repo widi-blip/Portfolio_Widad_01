@@ -1,5 +1,5 @@
 ---
-title: Skin Deep - Final Work 
+title: SKIN DEEP - Final Work 
 reftags:
   - Tag A
 imagegallery:
@@ -14,6 +14,7 @@ imagegallery:
 thumbnail: /img/00 SKin_Deep/AD-magazine2-Mockup.png
 date: 2024-11-15T12:58:59.910Z
 layout: layout2
+description: When the time came to choose a topic for my end-of-year project, it was evident to me that I would focus on body shaming and nothing else. Not only because I have personally experienced it here and there and have been affected by it, but also because I see it happening to others. The way people feel entitled to make comments about someone else's appearance is unacceptable, and that's why it was important for me to address this issue.
 mainincluded: true
 tags:
   - Tag 1

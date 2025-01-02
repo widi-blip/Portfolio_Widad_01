@@ -32,7 +32,7 @@
           <div>
             
             <h1 v-if="data.subtitle" class="opacity-80 text-xl md:text-2xl lg:text-3xl font-bold pb-10">{{ data.subtitle }}</h1>
-            <p class="text-lg md:text-2xl lg:text-xl pb-5 font-bold">{{ data.description }}</p>
+            <!--<p class="text-lg md:text-2xl lg:text-xl pb-5 font-bold">{{ data.description }}</p> -->
             <div v-if="data.imagegallery && data.imagegallery.showgallery == true">
               <ImageGallery v-lazy /> <!-- Lazy load the ImageGallery component -->
             </div>
@@ -108,11 +108,11 @@ defineProps(['data', 'formatDate']);
   font-family: "Space Mono", monospace;
   color: #000000;
   font-size: 50pt;
-  padding: 30pt 0 10pt 0;
+  padding: 30pt 0 20pt 0;
 }
 
 .SecondColumn{
-  margin-top: 20pt;
+  margin-top: 0pt;
 }
 
 @keyframes spin {

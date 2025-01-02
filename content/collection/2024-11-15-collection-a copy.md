@@ -15,6 +15,7 @@ imagegallery:
 thumbnail: /img/00 SKin_Deep/AD-magazine2-Mockup.png
 date: 2024-11-15T12:58:59.910Z
 layout: layout3
+description: In this school project, I designed the branding for a fictitious coffee shop. The goal was to create a modern, cozy, and welcoming vibe that would attract customers. I aimed to blend a trendy yet warm atmosphere where people would feel comfortable to relax, work, or socialize.
 mainincluded: true
 tags:
   - Tag 1

@@ -29,7 +29,7 @@ When the time came to choose a topic for my end-of-year project, it was evident 
 [TAKE A LOOK AT THE TRAILER](https://www.youtube.com/watch?v=7SE4r5zuQSU&ab_channel=wdd)  
 ::   
 
-::div{.Titel .text-3xl}
+::div{.Titel .text-2xl .font-bold}
 Explenation
 ::
 
@@ -39,7 +39,7 @@ Visitors can interact with these bodies and alter them as they wish. When inter-
 :: 
 
 
-::div{.Titel .text-3xl}
+::div{.Titel .text-2xl .font-bold}
 Award
 ::
 

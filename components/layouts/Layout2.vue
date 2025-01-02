@@ -108,7 +108,7 @@ defineProps(['data', 'formatDate']);
   font-family: "Space Mono", monospace;
   color: #000000;
   font-size: 50pt;
-  padding: 30pt 0 0pt 0;
+  padding: 30pt 0 10pt 0;
 }
 
 .SecondColumn{

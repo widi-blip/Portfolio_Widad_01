@@ -23,10 +23,6 @@ collectionincluded: true
 numbernavigation: 11
 
 ---
-::div{.Description .text-2xl .font-bold leading-9}
-In this school project, I designed the branding for a fictitious coffee shop. The goal was to create a modern, cozy, and welcoming vibe that would attract customers. I aimed to blend a trendy yet warm atmosphere where people would feel comfortable to relax, work, or socialize.
-::  
-
 ::div{.Titel .text-2xl .font-bold}
 Technologies
 ::

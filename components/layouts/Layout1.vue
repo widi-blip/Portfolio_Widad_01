@@ -8,7 +8,7 @@
       <div class="container">
         
         <h1 class="PageTitle2 md:text-3xl lg:text-6xl lg:mb-10 font-bold">{{ data.title }}</h1>
-        <!-- <p class="Description text-2xl font-bold">{{ data.description }}</p>-->
+        <p class="Description text-2xl font-bold">{{ data.description }}</p>
         <div v-if="data.imagegallery && data.imagegallery.showgallery == true" class="pt-10 pb-20">
             <ImageGallery />
         </div>

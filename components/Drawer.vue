@@ -14,7 +14,7 @@
   v-model="drawer"
   class="drawer  lg:min-w-96 min-w-full"
   :direction="direction"
-  size="30%"
+  size="100%"
 >
   <!-- Drawer content goes here -->
     <div class="NavText ">
@@ -37,8 +37,8 @@ const direction = ref<DrawerProps['direction']>('rtl')
 
 
 <style>
-.el-drawer  { background-color: #000000fc; color: #fa5ed3; }
-.dark-mode .el-drawer { background-color: rgba(30, 30, 30, 0.98);  }
+.el-drawer  { background-color: #000000d4; color: #fa5ed3; }
+.dark-mode .el-drawer { background-color: rgb(30, 30, 30);  }
 
 .fixed-drawer {
   position: fixed;
@@ -65,14 +65,15 @@ const direction = ref<DrawerProps['direction']>('rtl')
 
 .footer{
   margin-top: 50pt;
-  
+  margin-left: 10%;
 }
 
 .NavText {
   font-family: "Space Mono", serif;
   font-weight: 0;
   font-style: normal;
-  margin-left: 0pt;
+  margin-top: 3%;
+  margin-left: 10%;
 }
 
 .drawer{
@@ -98,7 +99,7 @@ const direction = ref<DrawerProps['direction']>('rtl')
   bottom: -3px;
   height: 6px;
   width: 100%;
-  background: #222222;
+  background: #22222249;
   transform: scaleX(0);
   transform-origin: right;
   transition: transform 0.3s ease;

@@ -27,6 +27,7 @@
       <!-- Main section -->
       <div class="container mx-auto p-4 animate-fade animate-once animate-delay-[500ms]">
         <h1 class="PageTitle2 md:text-3xl lg:text-6xl lg:mb-3 font-bold">{{ data.title }}</h1>
+        <p class="Description font-bold">{{ data.description }}</p>
         <div class="masonry-gallery mt-6">
           <!-- Image gallery -->
           <div v-if="data.imagegallery && data.imagegallery.showgallery == true">
@@ -157,4 +158,10 @@ defineProps(['data', 'formatDate']);
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+.Description{
+    color: #000000; /* Voegt de kleur toe */
+    padding-top: 0pt;
+    font-size: 17pt;
+  }
 </style>

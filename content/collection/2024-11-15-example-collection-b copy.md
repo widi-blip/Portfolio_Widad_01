@@ -6,7 +6,7 @@ tags:
   - Tag 1
 numbernavigation: 10
 layout: layout1
-description: During my internship at Josword, a creative agency based in Brussels, I had the exciting opportunity to collaborate on a mobility campaign for GROEN, a progressive and green political party. This project was a perfect blend of creativity, design, and sustainability, all values that align with GROEN's mission. I was tasked with designing a variety of materials to promote the party's message of green mobility and environmental awareness. From posters and flyers to stickers and even carpets, each piece had to reflect the party's commitment to a sustainable future while capturing the attention of a diverse audience.
+description: During my internship at Josword, a creative agency based in Brussels, I had the exciting opportunity to collaborate on a mobility campaign for GROEN, a progressive and green political party. This project was a perfect blend of creativity, design, and sustainability, all values that align with GROEN's mission. From posters and flyers to stickers and even carpets, each piece had to reflect the party's commitment to a sustainable future while capturing the attention of a diverse audience.
 mainincluded: true
 imagegallery:
   showgallery: true
@@ -19,11 +19,7 @@ imagegallery:
     - /img/01 Groen/7.png
 collectionincluded: true
 --- 
-::div{.Description .text-2xl .font-bold leading-9}
-During my internship at Josword, a creative agency based in Brussels, I had the exciting opportunity to collaborate on a mobility campaign for GROEN, a progressive and green political party. This project was a perfect blend of creativity, design, and sustainability, all values that align with GROEN's mission. I was tasked with designing a variety of materials to promote the party's message of green mobility and environmental awareness. From posters and flyers to stickers and even carpets, each piece had to reflect the party's commitment to a sustainable future while capturing the attention of a diverse audience.
-::  
-
-::div{.Titel .text-2xl .font-bold}
+::div{.Titel_02 .text-2xl .font-bold}
 Design Work & Process
 ::
 

@@ -193,9 +193,4 @@ const updateTagCounts = async () => {
   color: #161717;
 }
 
-.dark-mode body {
-  background-color: #161715;
-  color: #ebf4f1;
-}
-
 </style>

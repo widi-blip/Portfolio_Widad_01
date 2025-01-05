@@ -106,7 +106,7 @@ defineProps(['data', 'formatDate']);
 
 .PageTitle2{
   font-family: "Space Mono", monospace;
-  color: #000000;
+  /*color: #000000;*/
   font-size: 50pt;
   padding: 30pt 0 20pt 0;
 }

@@ -1,5 +1,5 @@
 ---
-title: Mobility campaign for GROEN
+title: GROEN - Mobility Campaign
 date: 2024-11-15T21:56:56.704Z
 thumbnail: /img/uve-sanchez-sILW2r09wOk-unsplash.jpg
 tags:

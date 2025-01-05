@@ -37,8 +37,8 @@ const direction = ref<DrawerProps['direction']>('rtl')
 
 
 <style>
-.el-drawer  { background-color: #000000d4; color: #fa5ed3; }
-.dark-mode .el-drawer { background-color: rgb(30, 30, 30);  }
+.el-drawer  { background-color: #000000dc; color: #fa5ed3; }
+.dark-mode .el-drawer { background-color: rgba(0, 0, 0, 0.871);  }
 
 .fixed-drawer {
   position: fixed;

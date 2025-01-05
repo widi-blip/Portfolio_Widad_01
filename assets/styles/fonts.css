@@ -106,28 +106,27 @@
   }
 
   .Text{
-    color: #000000; /* Voegt de kleur toe */
+    /*color: #000000; /* Voegt de kleur toe */
   }
 
   .Titel{
     font-family: "Space Mono", monospace;
-    color: #000000; /* Voegt de kleur toe */
+    /*color: #000000; /* Voegt de kleur toe */
     padding-top: 30pt;
   }
   .Titel_02{
     font-family: "Space Mono", monospace;
-    color: #000000; /* Voegt de kleur toe */
+    /*color: #000000; /* Voegt de kleur toe */
     padding-top: 0pt;
   }
 
   .Titel_03{
     font-family: "Space Mono", monospace;
-    color: #e63fbd; /* Voegt de kleur toe */
-    padding-bottom: 20pt;
+    padding-top: 25pt;
   }
 
   .Description{
-    color: #000000; /* Voegt de kleur toe */
+    /*color: #000000; /* Voegt de kleur toe */
     padding-top: 0pt;
   }
   .Link{

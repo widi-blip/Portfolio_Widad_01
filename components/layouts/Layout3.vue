@@ -94,7 +94,7 @@ defineProps(['data', 'formatDate']);
 
 .PageTitle2 {
   font-family: "Space Mono", monospace;
-  color: #000000;
+  /*color: #000000;*/
   font-size: 50pt;
   padding: 30pt 0 10pt 0;
 }
@@ -160,7 +160,7 @@ defineProps(['data', 'formatDate']);
 }
 
 .Description{
-    color: #000000; /* Voegt de kleur toe */
+    /*color: #000000; /* Voegt de kleur toe */
     padding-top: 0pt;
     font-size: 17pt;
   }

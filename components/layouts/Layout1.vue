@@ -55,7 +55,7 @@
 
 .PageTitle2{
   font-family: "Space Mono", monospace;
-  color: #000000;
+  /*color: #000000;*/
   font-size: 50pt;
 }
 </style>

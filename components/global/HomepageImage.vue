@@ -97,13 +97,15 @@ onUnmounted(() => {
   font-family: "Space Mono", monospace;
 }
 
+.SubtitleWidad  { color: #000000; }
+.dark-mode .SubtitleWidad { color: #fa5ec3f2;  }
+
 .SubtitleWidad {
   top: 25%;
   width: 100%;
   margin-left: 7%;
   position: relative;
   z-index: 2;
-  color: rgb(0, 0, 0);
   display: flex;
   font-family: "Space Mono", monospace;
   align-items: center;
